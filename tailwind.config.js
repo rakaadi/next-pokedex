@@ -11,7 +11,9 @@ module.exports = {
     ],
     theme: {
         extend: {
-
+            width: {
+                "50": "50vw"
+            }
         }
     },
     variants: {},

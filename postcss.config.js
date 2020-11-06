@@ -6,5 +6,8 @@ module.exports = {
             "plugins": ["macros"]
         },
         autoprefixer: {},
+        "postcss-preset-env": {
+            stage: 3
+        }
     },
 }
